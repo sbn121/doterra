@@ -1,0 +1,10 @@
+@charset "utf-8";   /*at-rule*/
+@import "reset.css";
+
+body {
+    font: normal 14px/1.5 "Nanum Gothic", "Noto Sans KR", sans-serif;  /*14px/1.5크기/행의 높이*/
+    color: #666;
+}
+.text-cap {
+    text-transform: capitalize;
+}
