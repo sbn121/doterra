@@ -6,7 +6,7 @@
     padding: 0;
 }
 a, a:link {
-    text-align: none;
+    text-decoration: none;
     color: inherit;
 }
 ul, il {
@@ -18,4 +18,3 @@ form, fieldset {
 .d-none {
     display: none;
 }
-.screen
